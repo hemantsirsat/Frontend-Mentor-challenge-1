@@ -50,6 +50,7 @@ export default function Home() {
         <div className={styles.imagearea}>
           <img
             src="/image-header-desktop.jpg"
+            alt="hero"
             className={styles.sideimage}
           />
         </div>
