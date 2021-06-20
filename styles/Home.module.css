@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@800&family=Lexend+Deca&display=swap');
 
 .container {
   min-height: 100vh;
@@ -60,7 +60,7 @@
   color: white;
   font-weight: bold;
   font-size: 2ch;
-  font-family: 'Inter', sans-serif;  
+  font-family: 'Inter', sans-serif;
 }
 
 .category {

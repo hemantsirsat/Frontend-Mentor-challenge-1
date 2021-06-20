@@ -4,6 +4,10 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
+      <Head>
+        <title>Stats preview</title>
+        <link rel="shortcut icon" href="/favicon-32x32.png"/>
+      </Head>
       <div className={styles.statscontainer}>
         <div className={styles.textarea}>
           <div className={styles.heading}>
@@ -34,7 +38,7 @@ export default function Home() {
               </p>
             </div>
             <div className={styles.queries}>
-              <p className={styles.number}>
+              <p className={styles.number}z>
                 12M+
               </p>
               <p className={styles.category}>
